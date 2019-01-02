@@ -1,0 +1,8 @@
+[submodule "pigpio"]
+	path = pigpio
+	url = https://github.com/joan2937/pigpio.git
+	branch = master
+[submodule "libnfc"]
+	path = libnfc
+	url = https://github.com/nfc-tools/libnfc.git
+	branch = master
